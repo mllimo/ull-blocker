@@ -11,3 +11,11 @@ No más encuestas de la ULL
 
 ## Dudas
 - Si tienes alguna duda puedes contactarme en mi [Twitter](https://twitter.com/mllim0).
+
+## Compatibilidad
+- Debería ser compatible con toda la familia de Chromium, aun así, se ha comprobado que es funcional en los siguientes navegadores:
+* Chrome
+* Chromium
+* Brave
+- No funcional:
+* Firefox
