@@ -17,5 +17,4 @@ No más encuestas de la ULL
 * Chrome
 * Chromium
 * Brave
-- No funcional:
-* Firefox
+
