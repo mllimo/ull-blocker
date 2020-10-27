@@ -1,0 +1,20 @@
+{
+  "name": "ull-blocker",
+  "version": "0.4",
+  "description": "extensión para eliminar automaticamente las encuestas de la ULL (Universidad de La Laguna)",
+  "manifest_version": 2,
+  "content_scripts": [
+    {
+      "matches": [
+        "*://*.ull.es/my/*"
+      ],
+      "js": [
+        "blocker.js"
+      ],
+      "run_at": "document_start"
+    }
+  ],
+  "browser_action": {
+    "default_icon": "banana.png"
+  }
+} 
